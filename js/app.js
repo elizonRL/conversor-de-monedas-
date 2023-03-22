@@ -39,5 +39,3 @@ function euroMx(euroFloat){
 }
 
 formInput.addEventListener('submit', convertirMonedas);
-
-
